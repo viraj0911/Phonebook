@@ -5,7 +5,7 @@ using namespace std;
 class directorynode
 {
 public:
-    char number[50]; //Defining an array for Number
+    char number[50]; //Defining an array for Phone Number
     char email[40];  //Defining an array for Email Account
     char name[30];   //Defining an array for Name
     directorynode *prev, *next;
