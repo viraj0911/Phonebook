@@ -15,7 +15,7 @@ The project revovles around a phonebook directory that is created by using the p
    ```sh
    git clone https://github.com/viraj0911/Phonebook
    ```
-2. Compiling the file and execute it
+2. Compiling the file and execute it 
    ```sh
    g++ phonebook.cpp
    a.exe
