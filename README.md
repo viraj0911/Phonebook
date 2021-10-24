@@ -4,7 +4,7 @@ A simple but efficient phonebook directory made by implementing functions like s
 
 ## Description
 
-The project revolves around a phonebook directory that is created by using the primary concepts of linked lists. We have implemented an user account to just identify the user. Main functions implemented in the code are inserting , deleting and updating a number name and email of a particular contact. Other functions also include searching a contact by name ,number and email address. In addition we have also included the option to delete the entries with the same name, number and email.
+The project revolves around a phonebook directory that is created by using the primary concepts of linked lists. We have implemented a user account to just identify the user. Main functions implemented in the code are inserting , deleting and updating a number name and email of a particular contact. Other functions also include searching a contact by name ,number and email address. In addition we have also included the option to delete the entries with the same name, number and email.
 
 ## Getting Started
 
